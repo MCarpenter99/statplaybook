@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://MCarpenter99.github.io/statplaybook/sitemap.xml

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Stat Playbook</title>
+    <link href="https://MCarpenter99.github.io/statplaybook/feed.xml" rel="self" />
+    <link href="https://MCarpenter99.github.io/statplaybook" />
+    <updated>2024-12-09T13:01:31-06:00</updated>
+    <author>
+        <name>Michael Carpenter</name>
+    </author>
+    <id>https://MCarpenter99.github.io/statplaybook</id>
+
+    <entry>
+        <title>Westminster College Football 2024 Season</title>
+        <author>
+            <name>Michael Carpenter</name>
+        </author>
+        <link href="https://MCarpenter99.github.io/statplaybook/westminster-college-football-2024-season/"/>
+        <id>https://MCarpenter99.github.io/statplaybook/westminster-college-football-2024-season/</id>
+        <media:content url="https://MCarpenter99.github.io/statplaybook/media/posts/1/wc-winston-blue.jpg" medium="image" />
+            <category term="football"/>
+
+        <updated>2024-12-09T12:18:01-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://MCarpenter99.github.io/statplaybook/media/posts/1/wc-winston-blue.jpg" alt="" />
+                    Game 1: Win vs Manchester 23-3
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://MCarpenter99.github.io/statplaybook/media/posts/1/wc-winston-blue.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Game 1: Win vs Manchester 23-3
+  </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="700" height="500" frameborder="0" scrolling="no" src="https://wcmo-my.sharepoint.com/personal/mcarpenter_westminster-mo_edu/_layouts/15/Doc.aspx?sourcedoc={a99323f1-bd1d-4ebf-8a3c-9b3ce6c53d87}&action=embedview&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True"></iframe></div>
+</div>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
